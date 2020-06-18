@@ -12,7 +12,28 @@ redirect_from:
 Education
 ======
 * B.S. in Physics, Wesleyan University, 2021 (expected)
+  * 
 * B.S. in Astronomy, Wesleyan University, 2021 (expected)
+
+Coursework highlights
+======
+* Physics
+  * Quantum Mechanics I/II
+  * Electricity and Magnetism
+  * Thermal and Statistical Physics
+  * Classical Dynamics
+  * Special Relativity
+  * General Relativity (tutorial)
+* Astronomy
+  * Observational Astronomy
+  * Galaxies, Quasars, & Cosmology
+  * Stellar Structure & Evolution
+  * Exoplanets (expected)
+  * Radio astronomy (expected)
+  * Astronomical Pedagogy
+* Other
+  * Computer Science I
+  * Discrete Mathematics
 
 Work experience
 ======
