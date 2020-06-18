@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Hi! My name is Mason. I'm a senior at Wesleyan University, pursuing degrees in astronomy and physics.
+### Hi! My name is Mason. I'm a senior at Wesleyan University, pursuing degrees in astronomy and physics.
 
 I spent the first two years of my undergrad career working on simulations of the **Solar Gravitational Lens (SGL)** under the guidance of Dr. Seth Redfield. I've since transitioned to high-energy observation, and am currently studying **ultraluminous x-ray binaries** in the local universe with *Chandra*. Please see my [Research](mvtea.github.io/research) page for more information.
 
