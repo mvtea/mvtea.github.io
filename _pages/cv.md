@@ -78,21 +78,21 @@ Outreach
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Course assistant, ASTR107: The Universe**
+  * Conducted weekly homework help sessions for students
+  * Led laboratory exercises in class
+  * Graded labs & weekly homework for 50 students
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* If You Give the Sun a Telescope: Imaging Alien Earths with the Solar Gravitational Lens
+  * *October 5, 2019 @ Vassar College*
+* Poster presentation on SGL research
+  * *July 25, 2019 @ Wesleyan University*
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Coming soon...
   
 Honors and awards
 ======
