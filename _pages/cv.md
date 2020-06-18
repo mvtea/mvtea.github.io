@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * B.S. in Physics, Wesleyan University, 2021 (expected)
-  * 
 * B.S. in Astronomy, Wesleyan University, 2021 (expected)
 
 Coursework highlights
