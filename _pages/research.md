@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 
+
 # Characterizing accreting binaries in the local universe with *Chandra* (*Spring 2020 - Present*)
 
 X-ray observations of nearby galaxies provide one of the best laboratories in the universe for studying two exotic classes of object: black holes and neutron stars. These sources, when found in binary star systems, represent the most persistently luminous discrete sources seen in galaxies, occasionally excepting their central supermassive black holes. Observations of these X-ray binary stars allow us to study the dramatic effect these objects have on their surroundings as well as the high-energy physics involved in their emission. Both black holes and neutron stars go through cycles of emission states in their X-ray spectra which are directly related to mass accretion rate in the systems. Observing such a cycle can enable determination of the nature of a compact object as either a black hole or a neutron star. However, observing a full cycle of states, which can last from days to decades depending on the object, is prohibitively time-consuming for a large sample of objects.
