@@ -14,7 +14,7 @@ Professor Roy Kilgard’s group has been working on a complete census of X-ray b
 
 This summer (2020), I'll be working with Professor Kilgard to perform a detailed spectro-temporal analysis of all of the luminous binaries in this sample with the following goals: 1. Determine X-ray spectral state, a quantity tied directly to mass accretion rate. 2. Use timing analysis to search for source variability. This could be periodicity (related to binary orbit or rotation), stochastic events (e.g., X-ray bursts associated with mass accretion on the surface of neutron stars), or quasiperiodicity (tied to relativistic motion of material through the accretion disc). 3. Determine the feasibility of optical follow-up of transient source outbursts using the new 24” telescope at the Van Vleck Observatory, which will be in commissioning and testing phase this summer.
 
-# Raytracing the Solar Gravitational Lens (SGL) with python (*Fall 2017 - Spring 2019*)
+# Raytracing the Solar Gravitational Lens (SGL) with Python (*Fall 2017 - Spring 2019*)
 
 Gravitational lensing is a well-known phenomenon in observational astronomy wherein a massive object, like a galaxy or cluster of galaxies, bends the trajectory of light of a bright source located behind it, which we observe on Earth as a warping or duplication of the source on the sky. If the conditions are just right and the source, lens and observer are perfectly aligned (<i>in syzygy</i>), what we observe is called an Einstein ring, a circle of light about the limb of the lens containing highly-magnified light from the source; this alignment rarely occurs in nature.
 
