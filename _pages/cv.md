@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+# CV [[pdf]](mvtea.github.io/tea-cv_revjun20.pdf)
+
 Education
 ======
 * **B.S. in Physics**, Wesleyan University, *2021* (expected)
