@@ -11,6 +11,7 @@ redirect_from:
 
 # CV [[pdf](https://mvtea.github.io/files/tea-cv_revjun20.pdf)]
 
+
 Education
 ======
 * **B.S. in Physics**, Wesleyan University, *2021* (expected)
