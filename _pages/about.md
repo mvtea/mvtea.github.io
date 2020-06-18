@@ -14,4 +14,4 @@ I spent the first two years of my undergrad career working on simulations of the
 
 Opportunities for outreach and teaching have proven my favorite aspects of studying astronomy. I've been the **Student Director of Van Vleck Observatory** at Wesleyan since 2019, giving me the responsibility of training students to observe on our 24" Perkin research telescope and helping to maintain the telescope facilities. I am also a co-founder of Wesleyan's astronomy club, **WesAstro**, alongside Benjamin C.O. Martinez (B.A. '21) and Gilberto Garcia (B.A. '20). To hear more about this and other outreach and teaching I'm involved in, please see my [Outreach](mvtea.github.io/outreach) and [Teaching](mvtea.github.io/teaching) pages.
 
-*If you're looking to get in touch, my contact info can be found on my [CV](mvtea.github.io/cv) page -- so can my CV, of course!*
+*If you're looking to get in touch, my contact info can be found in the sidebar to the left. My CV can be found on my [CV](mvtea.github.io/cv) page.*
