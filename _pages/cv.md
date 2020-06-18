@@ -11,30 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Wesleyan University, 2021 (expected)
+* B.S. in Astronomy, Wesleyan University, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2017 - Spring 2019: Researcher
+  * Wesleyan University, Department of Astronomy
+  * Worked on simulating the Solar Gravitational Lens (SGL)
+  * Supervisor: Dr. Seth Redfield
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Summer research fellow
+  * Wesleyan University, Department of Astronomy 
+  * Worked on simulating the Solar Gravitational Lens
+  * Wrote a GR raytracing script to simulate images of exoplanets gravitationally lensed by the Sun
+  * Presented my work in a talk at KNAC @ Vassar, as a poster at Wesleyan
+  * Supervisor: Dr. Seth Redfield
+  
+* Spring 2020 - present: Researcher
+  * Wesleyan University, Department of Astronomy
+  * Work on classifying ultraluminous x-ray (ULX) sources in the local universe using *Chandra*
+  * Supervisor: Dr. Roy Kilgard
+  
+* Summer 2020: Summer research fellow
+  * Wesleyan University, Department of Astronomy
+  * Worked on modelling ULX data from *Chandra*, classifying sources based on these fits
+  * Presented my work in a talk at KNAC @ Williams (expected), as a poster at Wesleyan (expected)
+  * Supervisor: Dr. Roy Kilgard
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Teaching
+* Programming
+  * Python
+  * C
+  * Mathematica
+* Data science
+* LaTeX
 
 Publications
 ======
