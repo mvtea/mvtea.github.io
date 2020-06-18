@@ -17,7 +17,7 @@ Education
 
 Coursework highlights
 ======
-* **Physics**: Quantum Mechanics I/II, Electricity and Magnetism, Thermal and Statistical Physics, Classical Dynamics, Special Relativity, General Relativity (tutorial)
+* **Physics**: Quantum Mechanics I/II, Electricity and Magnetism, Thermal and Statistical Physics, Classical Dynamics, Special Relativity, General Relativity (tutorial), Mathematics for Theoretical Physics (tutorial)
 * **Astronomy**: Observational Astronomy, Galaxies, Quasars, & Cosmology, Stellar Structure & Evolution, Exoplanets (expected), Radio astronomy (expected), Astronomical Pedagogy
 * **Other**: Computer Science I, Discrete Mathematics
 
@@ -57,7 +57,7 @@ Work experience
 Skills
 ======
 * Teaching
-* Programming: Python, C, Mathematica
+* Programming: Python, SQL, C/C++, Mathematica
 * Tools/Frameworks: LaTeX, Unix, Git
 * Languages: English (native), Japanese (CEFR A2)
 * Data science
