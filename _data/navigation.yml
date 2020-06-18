@@ -2,8 +2,16 @@
 main:  
     
   - title: "Research"
-    url: /research/   
+    url: /research/
+    
+  - title: "Talks"
+    url: /talks/ 
+    
+  - title: "Outreach"
+    url: /Outreach/ 
     
   - title: "CV"
     url: /cv/
     
+  - title: "Blog"
+    url: /blog/ 
