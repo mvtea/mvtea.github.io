@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/astr107
 venue: "Wesleyan University, Department of Astronomy"
-date: 2014-01-01
+date: 2019-09-01
 location: "Middletown, Connecticut"
 ---
 
