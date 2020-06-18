@@ -59,6 +59,7 @@ Skills
 * Teaching
 * Programming: Python, C, Mathematica
 * Tools/Frameworks: LaTeX, Unix, Git
+* Languages: English (native), Japanese (CEFR A2)
 * Data science
 
 Outreach
