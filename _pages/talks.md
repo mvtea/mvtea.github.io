@@ -10,4 +10,4 @@ author_profile: true
 * *October 5, 2019 @ Vassar College* ([Paper](https://mvtea.github.io/files/tea_knac2019.pdf), [Slides](https://mvtea.github.io/files/Tea_KNAC2019_Talk.pdf))
 
 ## Bright Meals for Light Eaters: Analysis and Characterization of Ultraluminous, Accreting Binaries in the Local Universe
-* *July 26, 2020 @ Wesleyan University* ([Poster](https://mvtea.github.io/files/Tea_Summer2020_ResearchPoster.pdf))
+* *July 26, 2020 @ Wesleyan University* [[Poster](http://summer20.research.wesleyan.edu/2020/07/01/51/)(*Password: summer20*)]
