@@ -17,6 +17,10 @@ For this reason, I have conducted a detailed spectro-temporal analysis on a smal
 
 I have identified 5 of these sources of special interest for follow-up, exhibiting signs of either quasiperiodicity, transitionary X-ray states or active accretion events. Over the course of my final year at Wesleyan, I'll be performing additional analysis on the sources of interest aforementioned, culminating in my honors thesis. Stay tuned.
 
+| ![4631.png](https://mvtea.github.io/files/4631.png) | 
+|:--:| 
+| *A black hole beginning to devour a star... I think.* Shown are the lightcurve, spectra, and preliminary spectral fits for a source of particular interest from my sample. The lightcurve, as well as the difference in shape between the spectra of the two epochs labeled, seems to imply that an accretion process is turning on for this object. |
+
 
 # Raytracing the Solar Gravitational Lens (SGL) with Python (*Fall 2017 - Spring 2019*)
 
