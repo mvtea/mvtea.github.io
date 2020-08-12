@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# CV [[pdf](https://mvtea.github.io/files/tea-cv_revjun20.pdf)]
+# **CV [[pdf](https://mvtea.github.io/files/tea-cv_revjun20.pdf)]**
 
 
 Education
