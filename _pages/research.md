@@ -29,3 +29,7 @@ The SGL is a theoretical space telescope comprised of a modest meter-class teles
 From the first few weeks of my time as an undergraduate in 2017 to the end of the summer of 2019, I worked with Professor Seth Redfield on simulating the images we might see from the SGL once it is positioned, so that we may begin work on a reconstruction algorithm for converting the warped light from the Einstein rings it gathers back into an image of the source's surface. This project culminated in a general-relativistic raytracing algorithm I call [<b style='font: courier'>SunTracer</b>](https://github.com/mvtea/sgl/tree/master/suntracer).
 
 I chose transition to a new project after developing SunTracer, and the deconvolutional methods for these images are being worked on by other researchers, namely by Dr. Slava Turyshev and Dr. Victor T. Toth at JPL; interested parties may read the SGL group's [NIAC Final Report](https://arxiv.org/pdf/2002.11871.pdf) (for which they [recently recieved Phase III funding](https://www.nasa.gov/press-release/nasa-selects-early-stage-technology-concepts-for-new-continued-study). Or, for a lighter read, [my paper](https://mvtea.github.io/files/tea_knac2019.pdf) from my talk on the subject at KNAC in fall of 2019.
+
+| ![erf.png](https://mvtea.github.io/files/erf.png) | 
+|:--:| 
+| *Images of a habitable planet as seen by the SGL.* Here, I utilized RGB data from NASA’s EPIC camera aboard the DSCOVR satellite as the source for SunTracer, which warped the image into an Einstein ring. |
