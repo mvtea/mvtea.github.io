@@ -21,7 +21,7 @@ Work experience
 ======
 * *Spring 2020 - Present*: **Researcher**
   * Wesleyan University, Department of Astronomy
-  * Work on classifying ultraluminous x-ray (ULX) sources in the local universe using *Chandra*
+  * Work on classifying ultraluminous X-ray (ULX) sources in the local universe using *Chandra*
   * Supervisor: Dr. Roy Kilgard
   
 * *Fall 2019 - Present*: **Student Director, Van Vleck Observatory**
@@ -53,8 +53,8 @@ Work experience
 Skills
 ======
 * Teaching
-* Programming: Python, SQL, C/C++, Mathematica
-* Tools/Frameworks: LaTeX, Unix, Git
+* Programming: Python, C/C++, Mathematica
+* Tools/Frameworks: LaTeX, Unix, Git, SQL
 * Languages: English (native), Japanese (CEFR A2)
 * Data science
 
@@ -69,6 +69,10 @@ Outreach
 * **Co-founder, WesAstro**
   * Astronomy club for students at Wesleyan University
   * Bi-weekly presentations given at an intro level on a topic in astronomy
+* **Member, Wesleyan Diversity Journal Club**
+  * Bi-weekly meetings to discuss an article relevant to promoting diversity in astronomy & STEM in general
+  * Discussion and delegation of departmental diversity initiatives takes place during these meetings
+  * Member of sub-commitee charged with branding and site management
 * **Space Night and Kids' Night @ VVO**
   * Public outreach events organized by the department, led by student volunteers on a weekly basis
   * Short presentation, activities & observing carried out by astronomy students
@@ -85,9 +89,10 @@ Teaching
 Talks
 ======
 * If You Give the Sun a Telescope: Imaging Alien Earths with the Solar Gravitational Lens
-  * *October 5, 2019 @ Vassar College*
-* Poster presentation on SGL research
-  * *July 25, 2019 @ Wesleyan University*
+  * Talk: *October 5, 2019 @ Vassar College*
+  * Poster: *July 25, 2019 @ Wesleyan University*
+* Bright Meals for Light Eaters: **A**nalysis and **C**haracterization of Ultraluminous, **A**ccreting X-Ray **B**inaries in the Local Universe
+  * Poster: *July 26th, 2020 @ Wesleyan University*
 
 Publications
 ======
@@ -95,4 +100,4 @@ Coming soon...
   
 Honors and awards
 ======
-* *Fall 2019*: **Connecticut Space Grant Scholarship recipient**
+* *Fall 2019*: **Connecticut Space Grant Consortium Scholarship recipient**
