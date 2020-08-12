@@ -7,15 +7,11 @@ author_profile: true
 
 ## Student Director, Van Vleck Observatory (*Fall 2019 - Present*)
 
-As the student director, I'm responsible for training students on the observatory's 24" [Perkin research telescope](https://www.wesleyan.edu/astro/van-vleck/telescopes.html), selecting targets to be observed by the telescope operators during their shifts, and helping to maintain the telescope facilities.
-
-Soon after my appointment to the position, our 24" and 16" telescopes ran into mechanical problems almost simultaneously, and it has been my job (with the help of Anthony Santini '19) to diagnose and resolve the issue with the 24" telescope. With the current (at the time of writing) pandemic, this project was haulted.
-
-However, the observatory's new 24" research telescope, which was set to replace the 16" this spring, is now set to be comissioned in late summer. I'll be intimately involved in this installation process to ensure that we can smoothly transition into teaching other students how to operate it during the fall semester.
+As the student director, I'm responsible for training students on the observatory's 24" [Perkin research telescope](https://www.wesleyan.edu/astro/van-vleck/telescopes.html), selecting targets to be observed by the telescope operators during their shifts, and helping to maintain the telescope and its facilities. I've also been involved in the installation of our [new 24" PlaneWave telescope](https://newsletter.blogs.wesleyan.edu/2020/07/22/new-24-telescope-to-provide-better-research-opportunities-for-astronomy-students-faculty/) this summer, and look forward to leading students in operating this piece of state-of-the-art equipment this fall.
 
 ## Space Night and Kids' Night @ VVO
 
-Space Nights are evenings at Van Vleck Observatory where the public are encouraged to come listen to an engaging presentation given by an astronomy student and observe with our telescopes. In the case of Kids' Night, a short activity is prepared by students for children from the community to participate in while learning about astronomy.
+Space Nights are evenings at Van Vleck Observatory where the public are encouraged to come listen to an engaging presentation given by an astronomy student and observe with our telescopes. In the case of Kids' Night, a short activity is prepared by students for children from the community to participate in while learning about astronomy. I've been involved as a volunteer for these events.
 
 ## Co-founder, WesAstro
 
