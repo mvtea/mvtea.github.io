@@ -89,7 +89,7 @@ Teaching
 Presentations
 ======
 * If You Give the Sun a Telescope: Imaging Alien Earths with the Solar Gravitational Lens
-  * Talk: *October 5, 2019 @ Vassar College* **[[pptx](https://mvtea.github.io/files/tea_KNAC_talk_2019.pptx)]**
+  * Talk: *October 5, 2019 @ Vassar College* **[[pdf](https://mvtea.github.io/files/Tea_KNAC2019_Talk.pdf)]**
   * Poster: *July 25, 2019 @ Wesleyan University*  **[[pdf](https://mvtea.github.io/files/summer_2019_poster.pdf)]**
 * Bright Meals for Light Eaters: **A**nalysis and **C**haracterization of Ultraluminous, **A**ccreting X-Ray **B**inaries in the Local Universe
   * Poster: *July 26th, 2020 @ Wesleyan University* **[[pdf](https://mvtea.github.io/files/Tea_Summer2020_ResearchPoster.pdf)]**
