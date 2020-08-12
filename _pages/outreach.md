@@ -11,7 +11,7 @@ As the student director, I'm responsible for training students on the observator
 
 ## Member, Wesleyan Astronomy Diversity Journal Club (DJC) (*Summer 2020 - Present*)
 
-The astronomy department at Wesleyan, in light of the events surrounding the murder of George Floyd at the hands of racist police, has chosen to reinstitute the DJC, an initiative started by [Dr. Kevin Flaherty](https://kevinflaherty.weebly.com/) as a postdoc here at Wes. The DJC is comprised of both students and faculty and meets bi-weekly to discuss an article related to diversity in astronomy, STEM or in general, with the goal of reflecting on the department's own shortcomings and organizing to improve. My current organizing role, alongside David Vizgan (B.A. '21) and Prof. Seth Redfield, deals with branding and advertising our initiative.
+The astronomy department at Wesleyan, in light of the events surrounding the murder of George Floyd at the hands of racist police, has chosen to reinstitute the DJC, an initiative started by [Dr. Kevin Flaherty](https://kevinflaherty.weebly.com/) as a postdoc here at Wes. The DJC is comprised of both students and faculty and meets bi-weekly to discuss an article related to diversity in astronomy, STEM or in general, with the goal of reflecting on the department's own shortcomings and organizing to improve. I am currently working on developing a graphical and online identity for the initiative, alongside Prof. Seth Redfield and David Vizgan (B.A. '21).
 
 ## Space Night and Kids' Night @ VVO
 
