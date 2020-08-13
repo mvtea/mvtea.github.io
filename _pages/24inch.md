@@ -1,13 +1,12 @@
 ---
 permalink: /24inch
-title: "24'' Program"
+title: "Welcome to the (temporary) homepage of the Wesleyan 24'' Observing Program!"
 excerpt: "24'' Program"
 author_profile: true
 redirect_from: 
   - /24inch/
 ---
 
-# Welcome to the (temporary) homepage of the Wesleyan 24" Observing Program!
 Below you'll find some helpful resources for observers.
 
 ## Weather apps
