@@ -22,6 +22,8 @@ Wesleyan students are welcome to contact the Student Director, Mason Tea (mtea@w
 ## Resources for observers
 | Weather apps | Object-finding | Documents | Code |
 | ------------ |:--------------:|:---------:|:----:|
-| <ul align=left><li>[VVO weather station dashboard]()</li><li>[Clear Outside](https://clearoutside.com/forecast/41.56/-72.65)</li><li>[Dark Sky](https://darksky.net/forecast/41.5311,-72.6449/us12/en)</li><li>[Clear Dark Sky](https://www.cleardarksky.com/c/VnVlckCTkey.html?1)</li></ul> | <ul align=left><li>[SIMBAD](http://simbad.u-strasbg.fr/simbad/)</li><li>[Astrometry](http://nova.astrometry.net/)</li><li>[Stellarium](http://simbad.u-strasbg.fr/simbad/)</li></ul> | <ul align=left><li>[Perkin observing manual](https://mvtea.github.io/files/24inch_obs_manual.pdf)</li><li>[Observing log printout]()</li><li>[Timesheet printout]()</li></ul> | <ul align=left><li>[Process your science images]()</li><li>[Celestial object tracker]()</li></ul> |
-
+| [VVO weather station dashboard]() | [SIMBAD](http://simbad.u-strasbg.fr/simbad/) | [Perkin observing manual](https://mvtea.github.io/files/24inch_obs_manual.pdf) | [Process your science images]() |
+| [Clear Outside](https://clearoutside.com/forecast/41.56/-72.65) | [Astrometry](http://nova.astrometry.net/) | [Observing log printout]() | [Celestial object tracker]() |
+| [Dark Sky](https://darksky.net/forecast/41.5311,-72.6449/us12/en) | [Stellarium](https://stellarium-web.org/) | [Timesheet printout]() | |
+| [Clear Dark Sky](https://www.cleardarksky.com/c/VnVlckCTkey.html?1)</li></ul> | |
 
