@@ -30,5 +30,5 @@ Wesleyan students are welcome to contact the Student Director, Mason V. Tea (mte
 | [VVO weather station dashboard]() | [SIMBAD](http://simbad.u-strasbg.fr/simbad/) | [Perkin observing manual](https://mvtea.github.io/files/24inch_obs_manual.pdf) | [Process your science images]() |
 | [Clear Outside](https://clearoutside.com/forecast/41.56/-72.65) | [Astrometry](http://nova.astrometry.net/) | [Observing log printout]() | [Celestial object tracker]() |
 | [Dark Sky](https://darksky.net/forecast/41.5311,-72.6449/us12/en) | [Stellarium](https://stellarium-web.org/) | [Timesheet printout]() | |
-| [Clear Dark Sky](https://www.cleardarksky.com/c/VnVlckCTkey.html?1)</li></ul> | |
+| [Clear Dark Sky](https://www.cleardarksky.com/c/VnVlckCTkey.html?1) | |
 
