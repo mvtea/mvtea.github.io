@@ -15,3 +15,6 @@ main:
     
   - title: "Blog"
     url: /blog/ 
+    
+  - title: "Wesleyan Student Observing Program"
+    url: /WSOP/
