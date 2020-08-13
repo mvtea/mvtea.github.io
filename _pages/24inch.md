@@ -1,11 +1,11 @@
 ---
 permalink: /24inch
-title: "24" Observing Program"
-excerpt: "24" Observing program"
+title: "24'' Program"
+excerpt: "24'' Program"
 author_profile: true
 redirect_from: 
   - /24inch/
-  - /24Inch
+  - /24inch.html
 ---
 
 # Welcome to the (temporary) homepage of the Wesleyan 24" Observing Program!
