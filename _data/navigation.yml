@@ -4,17 +4,14 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Presentations"
-    url: /presentations/ 
-    
   - title: "Outreach"
-    url: /outreach/ 
+    url: /outreach/
+    
+  - title: "Presentations"
+    url: /presentations/  
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Blog"
-    url: /blog/ 
     
   - title: "Wesleyan Student Observing Program"
     url: /WSOP/
