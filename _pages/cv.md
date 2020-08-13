@@ -17,7 +17,7 @@ Education
 * **B.A. in Physics**, Wesleyan University, *2021* (expected)
 * **B.A. in Astronomy**, Wesleyan University, *2021* (expected)
 
-Work experience
+Experience
 ======
 * *Spring 2020 - Present*: **Researcher**
   * Wesleyan University, Department of Astronomy
@@ -56,7 +56,7 @@ Teaching
   * Aided in facilitating group problem-solving sessions during lecture
   * Held weekly office hours
   
-* **Course assistant, ASTR107: The Universe** (*Fall 2019*)
+* **Course assistant, ASTR 107: The Universe** (*Fall 2019*)
   * Conducted weekly homework help sessions for students
   * Led laboratory exercises in class
   * Graded labs & weekly homework for 50 students
