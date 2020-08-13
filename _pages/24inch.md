@@ -13,9 +13,7 @@ The goal of the program is to give budding astronomers at Wesleyan the opportuni
 *If you are an astronomy student and would like to request time on the 24" telescope, either for ASTR 211 labs or for research purposes, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScMn7RQEd4paIEX8NGl-RFvgRU78goxKI_uZwzgIcnM2LuqRw/viewform).*
 
 # Current projects
-* Transiting white dwarfs
-* Galactic tidal streams
-* Transient black hole binaries
+| Transiting white dwarfs | Galactic tidal streams | Transient black hole binaries |
 
 # Getting involved
 Wesleyan students are welcome to contact the Student Director, Mason Tea (mtea@wesleyan.edu), with questions about getting involved with the program. Preference is given to (1) astronomy majors, (2) prospective astronomy majors and (3) those taking/having taken one of ASTR 155 or ASTR 211 <i>and/or</i> involved in research in the astronomy department.
