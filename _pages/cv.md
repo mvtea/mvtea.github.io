@@ -50,6 +50,17 @@ Work experience
   * Worked on simulating the Solar Gravitational Lens (SGL)
   * Supervisor: Dr. Seth Redfield
   
+Teaching
+======
+* **Course assistant, ASTR 155: Introduction to Astrophysics** (*Fall 2020*)
+  * Aided in facilitating group problem-solving sessions during lecture
+  * Held weekly office hours
+  
+* **Course assistant, ASTR107: The Universe** (*Fall 2019*)
+  * Conducted weekly homework help sessions for students
+  * Led laboratory exercises in class
+  * Graded labs & weekly homework for 50 students
+  
 Skills
 ======
 * Teaching
@@ -78,13 +89,6 @@ Outreach
   * Short presentation, activities & observing carried out by astronomy students
 * **Elementary school planetarium show**
   * Performed a planetarium show for students at MacDonough Elementary School in Middletown, CT as part of ASTR430 - Seminar on Astronomical Pedagogy.
-
-Teaching
-======
-* **Course assistant, ASTR107: The Universe**
-  * Conducted weekly homework help sessions for students
-  * Led laboratory exercises in class
-  * Graded labs & weekly homework for 50 students
   
 Presentations
 ======
