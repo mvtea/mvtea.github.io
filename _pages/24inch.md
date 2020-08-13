@@ -4,7 +4,7 @@ title: "24'' Program"
 excerpt: "24'' Program"
 author_profile: true
 redirect_from: 
-
+  - /24inch/
 ---
 
 # Welcome to the (temporary) homepage of the Wesleyan 24" Observing Program!
