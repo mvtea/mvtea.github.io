@@ -10,7 +10,7 @@ redirect_from:
 ## About the program
 The goal of the program is to give budding astronomers at Wesleyan the opportunity to gain experience operating a research telescope. Students utilize Van Vleck Observatory's 24" Perkin research telescope, collecting data for use in a range of faculty- and student-run research projects, detailed below.
 
-*If you are an astronomy student and would like to request time on the 24" telescope, either for ASTR 211 labs or for research purposes, please fill out [this form]("https://docs.google.com/forms/d/e/1FAIpQLScMn7RQEd4paIEX8NGl-RFvgRU78goxKI_uZwzgIcnM2LuqRw/viewform").*
+*If you are an astronomy student and would like to request time on the 24" telescope, either for ASTR 211 labs or for research purposes, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScMn7RQEd4paIEX8NGl-RFvgRU78goxKI_uZwzgIcnM2LuqRw/viewform).*
 
 # Current projects
 * Transiting white dwarfs
