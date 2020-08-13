@@ -14,6 +14,7 @@ The goal of the program is to give budding astronomers at Wesleyan the opportuni
 
 # Current projects
 | Transiting white dwarfs | Galactic tidal streams | Transient black hole binaries |
+| ----------------------- | ---------------------- | ----------------------------- |
 
 # Getting involved
 Wesleyan students are welcome to contact the Student Director, Mason Tea (mtea@wesleyan.edu), with questions about getting involved with the program. Preference is given to (1) astronomy majors, (2) prospective astronomy majors and (3) those taking/having taken one of ASTR 155 or ASTR 211 <i>and/or</i> involved in research in the astronomy department.
