@@ -23,7 +23,7 @@ Below you'll find some helpful resources for observers.
 * [Stellarium](http://simbad.u-strasbg.fr/simbad/)
 
 ## Documents
-* [Perkin observing manual]()
+* [Perkin observing manual](https://mvtea.github.io/files/24inch_obs_manual.pdf)
 * [Observing log printout]()
 * [Timesheet printout]()
 
