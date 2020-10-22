@@ -17,38 +17,62 @@ Education
 * **B.A. in Physics**, Wesleyan University, *2021* (expected)
 * **B.A. in Astronomy**, Wesleyan University, *2021* (expected)
 
-Experience
+Research
 ======
-* *Spring 2020 - Present*: **Researcher**
+* **Classifying X-ray Binaries in the Local Universe** (*Spring 2019 - Present*)
   * Wesleyan University, Department of Astronomy
-  * Work on classifying ultraluminous X-ray (ULX) sources in the local universe using *Chandra*
-  * Supervisor: Dr. Roy Kilgard
+  * Work on classifying black hole binaries (BHBs) in the local universe using archival *Chandra* data
+  * Supervisor: [Dr. Roy Kilgard](http://rkilgard.faculty.wesleyan.edu/)
   
-* *Fall 2019 - Present*: **Student Director, Van Vleck Observatory**
+* **Summer research fellow** (*Summer 2020*)
   * Wesleyan University, Department of Astronomy
-  * Responsible for training, target selection and maintenance for VVO's 24" research telescopes
-  * Involved in installation of Unnamed 24" research telescope (Summer 2020; expected)
+  * Worked on modelling XRB data from *Chandra*, classifying sources based on these fits
+  * Presented my work as a [poster]() at Wesleyan
+  * Supervisor: [Dr. Roy Kilgard](http://rkilgard.faculty.wesleyan.edu/)
   
-* *Fall 2017 - Present*: **Telescope operator**
-  * Operate VVO research telescope on observing runs
-  
-* *Summer 2020*: **Summer research fellow**
+* *Fall 2017 - Spring 2019*: **Researcher**
   * Wesleyan University, Department of Astronomy
-  * Worked on modelling ULX data from *Chandra*, classifying sources based on these fits
-  * Presented my work in a talk at KNAC @ Williams (expected), as a poster at Wesleyan (expected)
-  * Supervisor: Dr. Roy Kilgard
+  * Worked on simulating the Solar Gravitational Lens (SGL)
+  * Supervisor: [Dr. Seth Redfield](https://sethredfield.wescreates.wesleyan.edu/)
   
 * *Summer 2019*: **Summer research fellow**
   * Wesleyan University, Department of Astronomy 
   * Worked on simulating the Solar Gravitational Lens (SGL)
   * Wrote a GR raytracing script to simulate images of exoplanets gravitationally lensed by the Sun
   * Presented my work in a talk at KNAC @ Vassar, as a poster at Wesleyan
-  * Supervisor: Dr. Seth Redfield
+  * Supervisor: [Dr. Seth Redfield](https://sethredfield.wescreates.wesleyan.edu/)
 
-* *Fall 2017 - Spring 2019*: **Researcher**
+Outreach & Activities
+=====
+
+* **_Student Director_, Van Vleck Observatory** (*Fall 2019 - Present*)
   * Wesleyan University, Department of Astronomy
-  * Worked on simulating the Solar Gravitational Lens (SGL)
-  * Supervisor: Dr. Seth Redfield
+  * Responsible for training, target selection and maintenance for VVO's 24" research telescopes
+  * Involved in installation, operation of 24" research telescope
+  
+* **_Co-founder_, Wesleyan Astronomy & Space Club**
+  * Astronomy club for students at Wesleyan University
+  * Bi-weekly presentations given at an intro level on a topic in astronomy
+  
+* **_Co-founder_, Cosmology & Astroparticle Physics Journal Club**
+  * Created as a way to get exposure to topics outside of Wesleyan's research areas
+  * Weekly meetings to discuss a recent paper in the fields
+  
+* **_Member_, Wesleyan Diversity Journal Club** (*Summer 2020 - Present*)
+  * Bi-weekly meetings to discuss an article relevant to promoting diversity in astronomy & STEM in general
+  * Discussion and delegation of departmental diversity initiatives takes place during these meetings
+  * Member of sub-commitee charged with branding and site management
+  
+* **Reading course on gravitational theory** (*Spring 2018 - Spring 2019*)
+  * Met weekly for 2-4hrs to discuss readings & engage in problem-solving
+  * Covered topics including mathematical methods for theoretical physics, basic SR/GR, and black hole physics
+  
+* *Fall 2017 - Present*: **Telescope operator**
+  * Operate VVO research telescope on observing runs
+  
+* **Space Night and Kids' Night @ VVO**
+  * Public outreach events organized by the department, led by student volunteers on a weekly basis
+  * Short presentation, activities & observing carried out by astronomy students
   
 Teaching
 ======
@@ -61,47 +85,44 @@ Teaching
   * Led laboratory exercises in class
   * Graded labs & weekly homework for 50 students
   
-Skills
-======
-* Teaching
-* Programming: Python, C/C++, Mathematica
-* Tools/Frameworks: LaTeX, Unix, Git, SQL
-* Languages: English (native), Japanese (CEFR A2)
-* Data science
-
-Coursework highlights
-======
-* **Physics**: Quantum Mechanics I/II, Electricity and Magnetism, Thermal and Statistical Physics, Classical Dynamics, Special Relativity, General Relativity (tutorial), Mathematics for Theoretical Physics (tutorial)
-* **Astronomy**: Observational Astronomy, Galaxies, Quasars, & Cosmology, Stellar Structure & Evolution, Exoplanets (expected), Radio astronomy (expected), Astronomical Pedagogy
-* **Other**: Computer Science I, Discrete Mathematics
-
-Outreach
-======
-* **Co-founder, WesAstro**
-  * Astronomy club for students at Wesleyan University
-  * Bi-weekly presentations given at an intro level on a topic in astronomy
-* **Member, Wesleyan Diversity Journal Club**
-  * Bi-weekly meetings to discuss an article relevant to promoting diversity in astronomy & STEM in general
-  * Discussion and delegation of departmental diversity initiatives takes place during these meetings
-  * Member of sub-commitee charged with branding and site management
-* **Space Night and Kids' Night @ VVO**
-  * Public outreach events organized by the department, led by student volunteers on a weekly basis
-  * Short presentation, activities & observing carried out by astronomy students
-* **Elementary school planetarium show**
-  * Performed a planetarium show for students at MacDonough Elementary School in Middletown, CT as part of ASTR430 - Seminar on Astronomical Pedagogy.
-  
 Presentations
 ======
-* If You Give the Sun a Telescope: Imaging Alien Earths with the Solar Gravitational Lens
+* _Circling the Cosmic Drain_: Analysis and Characterization of Accreting X-ray Binaries in the Local Universe
+  * Poster: *January 11-15 @ AAS Winter Meeting* **[Poster]()**
+  
+* _If You Give the Sun a Telescope_: Imaging Alien Earths with the Solar Gravitational Lens
   * Talk: *October 5, 2019 @ Vassar College* **[[Paper](https://mvtea.github.io/files/tea_knac2019.pdf), [Slides](https://mvtea.github.io/files/Tea_KNAC2019_Talk.pdf)]**
   * Poster: *July 25, 2019 @ Wesleyan University*  **[[Poster](https://mvtea.github.io/files/summer_2019_poster.pdf)]**
-* Bright Meals for Light Eaters: **A**nalysis and **C**haracterization of Ultraluminous, **A**ccreting X-Ray **B**inaries in the Local Universe
+  
+* _Bright Meals for Light Eaters_: **A**nalysis and **C**haracterization of Ultraluminous, **A**ccreting X-Ray **B**inaries in the Local Universe
   * Poster: *July 26th, 2020 @ Wesleyan University* **[[Poster](http://summer20.research.wesleyan.edu/2020/07/01/51/)]** (*Password: summer20*)
 
 Publications
 ======
-Coming soon...
-  
+**<ins>Tea, M V</ins>,** Redfield S (2019). _If You Give the Sun a Telescope_: Imaging Alien earths with the Solar Gravitational Lens. _Proceedings of the 30th Keck Northeast Astronomy Consortium Undergraduate Research Symposium, 99-103._
+
 Honors and awards
 ======
-* *Fall 2019*: **Connecticut Space Grant Consortium Scholarship recipient**
+* *2018*: **NASA Connecticut Space Grant Consortium Scholarship**
+  
+Technical Skills
+======
+* **Programming**: Python, C, Mathematica, SQL, LaTeX, HTML/CSS
+
+* **Tools/Frameworks**: Unix, Windows, Git
+
+* **Libraries**: Numpy, Matplotlib, Pandas, Scipy, Astropy, AstroML
+
+Research Interests
+======
+**Observational astrophysics**: X-ray binaries, gravitational waves, compact objects, tests of general relativity, multimessenger astronomy, statistical inference & machine learning
+
+**Relativity theory**: Numerical relativity, compact binary coalescence, information theory, strong gravity, holography, quantum gravity
+
+Coursework highlights
+======
+* **Physics**: Quantum Mechanics I/II, Electricity and Magnetism, Thermal and Statistical Physics, Classical Dynamics, Special Relativity, Gravitational Theory (tutorial), Electronics Lab (expected)
+
+* **Astronomy**: Observational Astronomy, Galaxies, Quasars, & Cosmology, Stellar Structure & Evolution, Exoplanets, Radio astronomy (expected), Astronomical Pedagogy
+
+* **Other**: Computer Science I, Discrete Mathematics
