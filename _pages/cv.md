@@ -76,6 +76,10 @@ Outreach & Activities
   
 Teaching
 ======
+* **Course assistant, ASTR 211: Observational Astronomy** (*Spring 2021*)
+  * Held weekly office hours
+  * More to come
+
 * **Course assistant, ASTR 155: Introduction to Astrophysics** (*Fall 2020*)
   * Aided in facilitating group problem-solving sessions during lecture
   * Held weekly office hours
@@ -103,7 +107,8 @@ Publications
 
 Honors and awards
 ======
-* *2018*: **NASA Connecticut Space Grant Consortium Scholarship**
+* *2020*: **NASA Connecticut Space Grant Consortium Undergraduate Research Fellowship**
+* *2019*: **NASA Connecticut Space Grant Consortium Undergraduate Scholarship**
   
 Technical Skills
 ======
