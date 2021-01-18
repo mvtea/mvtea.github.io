@@ -97,7 +97,7 @@ Teaching
 Presentations
 ======
 * _Circling the Cosmic Drain_: Analysis and Characterization of Accreting X-ray Binaries in the Local Universe
-  * Poster: *January 11-15 @ AAS Winter Meeting* **[iPoster](aas237-aas.ipostersessions.com/Default.aspx?s=00-7B-01-BD-28-AA-F6-1C-01-91-30-D7-F0-CD-23-19)**
+  * Poster: *January 11-15 @ AAS Winter Meeting* **[iPoster](http://aas237-aas.ipostersessions.com/Default.aspx?s=00-7B-01-BD-28-AA-F6-1C-01-91-30-D7-F0-CD-23-19)**
   
 * _If You Give the Sun a Telescope_: Imaging Alien Earths with the Solar Gravitational Lens
   * Talk: *October 5, 2019 @ Vassar College* **[[Paper](https://mvtea.github.io/files/tea_knac2019.pdf), [Slides](https://mvtea.github.io/files/Tea_KNAC2019_Talk.pdf)]**
