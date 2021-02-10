@@ -8,6 +8,8 @@ redirect_from:
   - /observational/
 ---
 
+{% include base_path %}
+
 Welcome to the webpage for the lab section of ASTR 211 for Spring 2021. Here you'll find some helpful resources and lab materials.
 
 # Class materials
