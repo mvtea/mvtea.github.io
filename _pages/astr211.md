@@ -14,11 +14,12 @@ Welcome to the webpage for the lab section of ASTR 211 for Spring 2021. Here you
 
 # Class materials
 
-- [Syllabus]()
+- [Syllabus](https://mvtea.github.io/files/lab-syllabus.pdf)
+- [Python Tools handout](https://mvtea.github.io/files/python-tools.pdf)
 
 | Lab 1 (Feb. 17)                       |
 | ------------------------------------- |
-| [Intro to Unix handout]()             |
+| [Intro to Unix handout](https://mvtea.github.io/files/unix-intro.pdf)|
 | [Python Basics notebook]()            |
 | [Strings, Lists & Arrays notebook]()  |
 | [Lab 1 Exercises notebook]()          |
