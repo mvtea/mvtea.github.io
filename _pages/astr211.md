@@ -8,13 +8,13 @@ redirect_from:
   - /observational/
 ---
 
-Welcome to the webpage for the lab section of ASTR 211 for Spring 2021. Here you'll find some helpful resources and lab materials.
+Welcome to the webpage for the lab section of ASTR 211 for Spring 2021. Here you'll find some helpful resources and lab materials. _I'll be updating the page often, so be sure to check back before lab each week._
 
 ***
 
 # Class materials
 
-- [Syllabus](https://mvtea.github.io/files/lab-syllabus.pdf)
+- [Syllabus](https://mvtea.github.io/files/syllabus.pdf)
 - [Python Tools handout](https://mvtea.github.io/files/python-tools.pdf)
 
 | Lab 1 (Feb. 17)                       |
