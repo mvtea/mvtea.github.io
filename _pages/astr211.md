@@ -19,10 +19,10 @@ Welcome to the webpage for the lab section of ASTR 211 for Spring 2021. Here you
 
 | Lab 1 (Feb. 17)                       |
 | ------------------------------------- |
-| [Intro to Unix handout](https://mvtea.github.io/files/unix-intro.pdf)                      |
+| [Intro to Unix handout](https://mvtea.github.io/files/unix-intro.pdf)|
 | [Tutorial 1.1: Python Basics notebook]()            |
 | [Tutorial 1.2: Strings, Lists & Arrays notebook]()  |
-| [Lab 1 Exercises notebook]()          |
+| [Lab 1 Exercises notebook](https://mvtea.github.io/files/ASTR211_Lab1-1.ipynb)|
 
 ***
 
