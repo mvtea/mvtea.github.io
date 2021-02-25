@@ -22,7 +22,7 @@ Welcome to the webpage for the lab section of ASTR 211 for Spring 2021. Here you
 | [Intro to Unix handout](https://mvtea.github.io/files/unix-intro.pdf)                                 | Tutorial 2.1: Conditionals & Loops             |
 | [Tutorial 1.1: Python Basics notebook](https://mvtea.github.io/files/astr211_tut1-1.ipynb)            | Tutorial 2.2: Functions                        |
 | [Tutorial 1.2: Strings, Lists & Arrays notebook](https://mvtea.github.io/files/astr211_tut1-2.ipynb)  | Tutorial 2.3: Intro to Plotting (`matplotlib`) |
-| [Lab 1 Exercises notebook](https://mvtea.github.io/files/ASTR211_Lab1-1.ipynb)                        | Lab 2 Exercises notebook                       |
+| [Lab 1 Exercises notebook](https://mvtea.github.io/files/ASTR211_Lab1-1.ipynb)                        | [Lab 2 Exercises notebook](https://mvtea.github.io/files/astr211_lab2-exercises.ipynb)                       |
 | [Lab 1 recording](https://www.youtube.com/watch?v=IW92rW3L__g)                                        | Lab 2 recording                                |
 
 ***
