@@ -12,7 +12,7 @@ Hi! My name is Mason, and I'm a senior at Wesleyan University, pursuing degrees 
 
 I spent my first two years as an undergrad working on simulations of the **Solar Gravitational Lens (SGL)** under the guidance of Dr. Seth Redfield. I've since transitioned to high-energy observation, and am currently studying **black hole binaries in the local universe** with *Chandra*. Please see my [Research](mvtea.github.io/research) page for more information.
 
-I've been the **Student Director of Van Vleck Observatory** at Wesleyan since 2019, and am a **co-founder of WesAstro**, Wesleyan's astronomy club, alongside Benjamin C.O. Martinez (B.A. '21) and Gilberto Garcia (B.A. '20). To hear more about this and other public projects I'm involved in, please see my [Outreach](mvtea.github.io/outreach) page. My teaching experience, among other things, can be found on my [CV](mvtea.github.io/cv).
+I've been the **Student Director of Van Vleck Observatory** at Wesleyan since 2019, and am involved in a few astronomy outreach projects on campus as well. To hear more about this and other public projects I'm involved in, please see my [Outreach](mvtea.github.io/outreach) page. My teaching experience, among other things, can be found on my [CV](mvtea.github.io/cv).
 
 Broadly speaking, I'm interested in gravity, both in theory and observation. In particular, I look forward to pursuing opportunities dealing with both astrophysical and theoretical black hole physics, multi-messenger / gravitational wave astronomy, and the role compact objects can play in constraining a theory of quantum gravity.
 
