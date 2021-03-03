@@ -7,13 +7,13 @@ author_profile: true
 
 ## Student Director, Van Vleck Observatory (*Fall 2019 - Present*)
 
-As the student director, I'm responsible for training students on the observatory's 24" [Perkin research telescope](https://www.wesleyan.edu/astro/van-vleck/telescopes.html), selecting targets to be observed by the telescope operators during their shifts, and helping to maintain the telescope and its facilities. I've also been involved in the installation of our [new 24" PlaneWave telescope](https://newsletter.blogs.wesleyan.edu/2020/07/22/new-24-telescope-to-provide-better-research-opportunities-for-astronomy-students-faculty/) this summer, and look forward to leading students in operating this piece of state-of-the-art equipment this fall.
+As the student director, I'm responsible for training students on the observatory's 24" [Perkin research telescope](https://www.wesleyan.edu/astro/van-vleck/telescopes.html), selecting targets to be observed by the telescope operators during their shifts, and helping to maintain the telescope and its facilities. I am also  currently involved in the testing phase of our [new 24" PlaneWave telescope](https://newsletter.blogs.wesleyan.edu/2020/07/22/new-24-telescope-to-provide-better-research-opportunities-for-astronomy-students-faculty/), and look forward to leading students in operating this piece of state-of-the-art equipment this spring.
 
 ## Co-founder, Wesleyan Astronomy & Space Club (WesAstro) (*Fall 2018 - Present*)
 
-Founded alongside Benjamin C.O. Martinez '21 and Gilberto Garcia '20, WesAstro is an astronomy club for majors and non-majors alike at Wesleyan University. We meet bi-weekly to discuss a topic in astronomy with students after a short presentation by myself, Ben and/or Gil.
+Founded alongside Benjamin C.O. Martinez '21 and Gilberto Garcia '20, WesAstro is an astronomy club for majors and non-majors alike at Wesleyan University. We meet weekly to discuss a topic in astronomy with students after a short presentation by members of the group.
 
-## Co-founder, Cosmology & Astroparticle Physics Journal Club (CAPPJC) (*Spring 2019 - Present*)
+## Co-founder, Cosmology & Astroparticle Physics Journal Club (CAPPJC) (*Spring 2019 - Fall 2020*)
 
 Founded alongside Benjamin C. O. Martinez '21 and Nikki Pallat '21 as a way to get more exposure to emerging topics in interesting fields not represented in Wesleyan's research, members of CAPPJC meet weekly to discuss recent papers in these fields.
 
@@ -23,11 +23,11 @@ The astronomy department at Wesleyan, in light of the events surrounding the mur
 
 ## Reading course on gravitational theory (*Spring 2018 - Spring 2019*)
 
-I approached [Professor George Paily](http://gmpailyteaching.weebly.com/) in my sophomore year about learning more about gravitational theory, and he kindly agreed to take me on as a student. Starting with tensor calculus and ending with an overview of the spacetime physics of black holes, this "course" further invigorated my passion for strong gravity.
+I approached [Professor George Paily](http://gmpailyteaching.weebly.com/) in my sophomore year about learning more about gravitational theory, and he kindly agreed to take me on as a student. Starting with tensor calculus and ending with an overview of the physics of black holes, this "course" further invigorated my passion for strong gravity.
 
 ## Telescope operator (*Fall 2017 - Present*)
 
-Though the [24" Perkin research telescope](https://www.wesleyan.edu/astro/van-vleck/telescopes.html#24inch) at Wesleyan is undergoing some technical difficulties at the moment (which, as Student Director, I have been working to alleviate), I've been operating the telescope since by freshman fall and hope to be doing the same with the brand-new [24" PlaneWave telescope](https://newsletter.blogs.wesleyan.edu/2020/07/22/new-24-telescope-to-provide-better-research-opportunities-for-astronomy-students-faculty/) in the near future.
+After a (pandemic-interrupted) year of investigation by myself and former colleague Anthony Santini, the  [24" Perkin research telescope](https://www.wesleyan.edu/astro/van-vleck/telescopes.html#24inch) at Wesleyan is once again operational. I've been operating the telescope since my freshman fall and will be doing the same with the brand-new [24" PlaneWave telescope](https://newsletter.blogs.wesleyan.edu/2020/07/22/new-24-telescope-to-provide-better-research-opportunities-for-astronomy-students-faculty/) in the near future.
 
 ## Volunteer, Space Night and Kids' Night @ VVO (*Fall 2019 - Present*)
 
