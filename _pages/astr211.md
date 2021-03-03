@@ -21,7 +21,7 @@ Welcome to the webpage for the lab section of ASTR 211 for Spring 2021. Here you
 | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | [Intro to Unix handout](https://mvtea.github.io/files/unix-intro.pdf)                                 | [Tutorial 2.1: Conditionals & Loops](https://mvtea.github.io/files/astr211_tut2-1.ipynb)             |
 | [Tutorial 1.1: Python Basics](https://mvtea.github.io/files/astr211_tut1-1.ipynb)            | [Tutorial 2.2: Functions](https://mvtea.github.io/files/astr211_tut2-2.ipynb)                        |
-| [Tutorial 1.2: Strings, Lists & Arrays](https://mvtea.github.io/files/astr211_tut1-2.ipynb)  | [Tutorial 2.3: Plotting Basics (`matplotlib`)](https://mvtea.github.io/files/astr211_tut2-3.ipynb) |
+| [Tutorial 1.2: Strings, Lists & Arrays (`numpy`)](https://mvtea.github.io/files/astr211_tut1-2.ipynb)  | [Tutorial 2.3: Plotting Basics (`matplotlib`)](https://mvtea.github.io/files/astr211_tut2-3.ipynb) |
 | [Lab 1 Exercises notebook](https://mvtea.github.io/files/ASTR211_Lab1-1.ipynb)                        | [Lab 2 Exercises notebook](https://mvtea.github.io/files/astr211_lab2-exercises.ipynb)               |
 | [Lab 1 recording](https://www.youtube.com/watch?v=IW92rW3L__g)                                        | [Lab 2 recording](https://www.youtube.com/watch?v=LZnPkxZJN9M)                                       |
 | [Lab 1 Exercises solutions](https://mvtea.github.io/files/ASTR211_Lab1-Key.ipynb)                     | [Lab 2 Exercises solutions](https://mvtea.github.io/files/astr211_lab2-exercises-KEY.ipynb)          |
