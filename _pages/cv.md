@@ -13,12 +13,14 @@ redirect_from:
 
 
 ***
+
 Education
 ======
 * **B.A. in Physics**, Wesleyan University, *2021* (expected)
 * **B.A. in Astronomy**, Wesleyan University, *2021* (expected)
 
 ***
+
 Research
 ======
 * **Classifying X-ray Binaries in the Local Universe** (*Spring 2019 - Present*)
@@ -46,6 +48,7 @@ Research
   * Supervisor: [Dr. Seth Redfield](https://sethredfield.wescreates.wesleyan.edu/)
 
 ***
+
 Outreach & Activities
 =====
 
@@ -79,6 +82,7 @@ Outreach & Activities
   * Short presentation, activities & observing carried out by astronomy students
   
 *** 
+
 Teaching
 ======
 * **Coding instructor & course assistant, ASTR 211: Observational Astronomy** (*Spring 2021*)
@@ -99,6 +103,7 @@ Teaching
   * Graded labs & weekly homework for 50 students
   
 ***
+
 Presentations
 ======
 * _Circling the Cosmic Drain_: Analysis and Characterization of Accreting X-ray Binaries in the Local Universe
@@ -112,6 +117,7 @@ Presentations
   * Poster: *July 26th, 2020 @ Wesleyan University* **[[Poster](http://summer20.research.wesleyan.edu/2020/07/01/51/)]** (*Password: summer20*)
 
 ***
+
 Publications
 ======
 **<ins>Tea, M V</ins>** (2021). Untitled honors thesis (_in prep_).
@@ -119,12 +125,14 @@ Publications
 **<ins>Tea, M V</ins>,** Redfield S (2019). _If You Give the Sun a Telescope_: Imaging Alien earths with the Solar Gravitational Lens. _Proceedings of the 30th Keck Northeast Astronomy Consortium Undergraduate Research Symposium, 99-103._
 
 ***
+
 Honors and awards
 ======
 * *2020*: **NASA Connecticut Space Grant Consortium Undergraduate Research Fellowship**
 * *2019*: **NASA Connecticut Space Grant Consortium Undergraduate Scholarship**
   
 ***
+
 Technical Skills
 ======
 * **Programming**: Python, C, SQL, LaTeX, HTML/CSS
@@ -134,6 +142,7 @@ Technical Skills
 * **Libraries**: Numpy, Matplotlib, Pandas, Scipy, Astropy, AstroML
 
 ***
+
 Coursework highlights
 ======
 * **Physics**: Quantum Mechanics I/II, Electricity and Magnetism, Thermal and Statistical Physics, Classical Dynamics, Special Relativity, Gravitational Theory (tutorial), Electronics Lab (expected)
@@ -143,6 +152,7 @@ Coursework highlights
 * **Other**: Computer Science I, Discrete Mathematics
 
 ***
+
 Research Interests
 ======
 **Observational astrophysics**: X-ray binaries, gravitational waves, compact objects, tests of general relativity, multimessenger astronomy, statistical inference & machine learning
