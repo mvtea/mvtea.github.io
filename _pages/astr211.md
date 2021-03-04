@@ -28,9 +28,9 @@ Welcome to the webpage for the lab section of ASTR 211 for Spring 2021. Here you
 
 |  Lab 3 (Mar. 3) |
 | --------------- |
-| [Tutorial 3.1: More Plotting]() |
-| [Tutorial 3.2: Reading & Writing Data (`pandas`)]() |
-| [Tutorial 3.3 (Bonus): Advanced Plotting]() |
+| [Tutorial 3.1: More Plotting](https://mvtea.github.io/files/astr211_tut3-1.ipynb) |
+| [Tutorial 3.2: Reading & Writing Data (`pandas`)](https://mvtea.github.io/files/astr211_tut3-2.ipynb) |
+| [Tutorial 3.3 (Bonus): Advanced Plotting](https://mvtea.github.io/files/astr211_tut3-3_bonus.ipynb) |
 | [Lab 3 Exercises notebook](https://mvtea.github.io/files/astr211-lab3-exercises.ipynb) |
 | [CSV for Lab 3 Exercises](https://mvtea.github.io/files/sample-hr.csv) |
 | [Lab 3 recording]() |
