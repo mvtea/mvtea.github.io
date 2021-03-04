@@ -33,7 +33,7 @@ Welcome to the webpage for the lab section of ASTR 211 for Spring 2021. Here you
 | [Tutorial 3.3 (Bonus): Advanced Plotting](https://mvtea.github.io/files/astr211_tut3-3_bonus.ipynb) |
 | [Lab 3 Exercises notebook](https://mvtea.github.io/files/astr211-lab3-exercises.ipynb) |
 | [CSV for Lab 3 Exercises](https://mvtea.github.io/files/sample-hr.csv) |
-| [Lab 3 recording]() |
+| [Lab 3 recording](https://www.youtube.com/watch?v=aTkBYALUwZ0) |
 | [Lab 3 Exercises solutions]() |
 
 ***
