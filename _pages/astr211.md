@@ -26,12 +26,12 @@ Welcome to the webpage for the lab section of ASTR 211 for Spring 2021. Here you
 | [Lab 1 recording](https://www.youtube.com/watch?v=IW92rW3L__g)                                        | [Lab 2 recording](https://www.youtube.com/watch?v=LZnPkxZJN9M)                                       |
 | [Lab 1 Exercises solutions](https://mvtea.github.io/files/ASTR211_Lab1-Key.ipynb)                     | [Lab 2 Exercises solutions](https://mvtea.github.io/files/astr211_lab2-exercises-KEY.ipynb)          |
 
-|  Lab 3 (Mar. 3) |
-| --------------- |
-| [Tutorial 3.1: More Plotting](https://mvtea.github.io/files/astr211_tut3-1.ipynb) |
-| [Tutorial 3.2: Reading & Writing Data (`pandas`)](https://mvtea.github.io/files/astr211_tut3-2.ipynb) |
-| [Tutorial 3.3 (Bonus): Advanced Plotting](https://mvtea.github.io/files/astr211_tut3-3_bonus.ipynb) |
-| [Lab 3 Exercises notebook](https://mvtea.github.io/files/astr211-lab3-exercises.ipynb) |
+|  Lab 3 (Mar. 3) | Lab 4 (Mar. 10) |
+| --------------- | --------------- |
+| [Tutorial 3.1: More Plotting](https://mvtea.github.io/files/astr211_tut3-1.ipynb) | [Tutorial 4.1: Astronomical Image Processing](https://mvtea.github.io/files/astr211_tut4-1.ipynb) |
+| [Tutorial 3.2: Reading & Writing Data (`pandas`)](https://mvtea.github.io/files/astr211_tut3-2.ipynb) | [Processing pipeline example code](https://mvtea.github.io/files/image_proc.py) |
+| [Tutorial 3.3 (Bonus): Advanced Plotting](https://mvtea.github.io/files/astr211_tut3-3_bonus.ipynb) | [Processing pipeline example data]() |
+| [Lab 3 Exercises notebook](https://mvtea.github.io/files/astr211-lab3-exercises.ipynb) | [Lab 4 recording](https://www.youtube.com/watch?v=DoaL8nnhAyg) |
 | [CSV for Lab 3 Exercises](https://mvtea.github.io/files/sample-hr.csv) |
 | [Lab 3 recording](https://www.youtube.com/watch?v=aTkBYALUwZ0) |
 | [Lab 3 Exercises solutions]() |
