@@ -41,7 +41,7 @@ Welcome to the webpage for the lab section of ASTR 211 for Spring 2021. Here you
 
 # Observing materials
 
-| *24" Training* |
+| 24" Training |
 | ------------------- | 
 | [Telescope manual (early draft)](https://mvtea.github.io/files/24inch-startup.pdf) |
 | [Telescope startup/shutdown checklist](https://mvtea.github.io/files/24inch-manual-draft.pdf) |
