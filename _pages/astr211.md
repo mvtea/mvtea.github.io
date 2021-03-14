@@ -39,6 +39,15 @@ Welcome to the webpage for the lab section of ASTR 211 for Spring 2021. Here you
 
 ***
 
+# Observing materials
+
+| *24" Training* |
+| ------------------- | 
+| [Telescope manual (early draft)]() |
+| [Telescope startup/shutdown checklist]() |
+
+***
+
 # Resources
 
 | Python | Software & Documentation | Misc |
