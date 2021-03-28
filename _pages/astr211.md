@@ -50,7 +50,7 @@ Welcome to the webpage for the lab section of ASTR 211 for Spring 2021. Here you
 | [24" PlaneWave telescope manual (early draft)](https://mvtea.github.io/files/24inch-startup.pdf) |
 | [24" PlaneWave telescope startup/shutdown checklist](https://mvtea.github.io/files/24inch-manual-draft.pdf) |
 | [24" PlaneWave telescope training recording (Part 1)](https://www.youtube.com/watch?v=Nw7SzVBF__s) |
-| [24" PlaneWave telescope training recording (Part 1)](https://www.youtube.com/watch?v=d9Q4y5ovrWU) |
+| [24" PlaneWave telescope training recording (Part 2)](https://www.youtube.com/watch?v=d9Q4y5ovrWU) |
 
 ***
 
