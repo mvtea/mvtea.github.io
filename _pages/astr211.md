@@ -37,14 +37,20 @@ Welcome to the webpage for the lab section of ASTR 211 for Spring 2021. Here you
 | [Lab 3 recording](https://www.youtube.com/watch?v=aTkBYALUwZ0) |
 | [Lab 3 Exercises solutions]() |
 
+| Lab 5 (Mar. 31) |
+| --------------- |
+| [Tutorial 5.1: TBD]() |
+
 ***
 
 # Observing materials
 
 | 24" Training |
 | ------------------- | 
-| [Telescope manual (early draft)](https://mvtea.github.io/files/24inch-startup.pdf) |
-| [Telescope startup/shutdown checklist](https://mvtea.github.io/files/24inch-manual-draft.pdf) |
+| [24" PlaneWave telescope manual (early draft)](https://mvtea.github.io/files/24inch-startup.pdf) |
+| [24" PlaneWave telescope startup/shutdown checklist](https://mvtea.github.io/files/24inch-manual-draft.pdf) |
+| [24" PlaneWave telescope training recording (Part 1)](https://www.youtube.com/watch?v=Nw7SzVBF__s) |
+| [24" PlaneWave telescope training recording (Part 1)](https://www.youtube.com/watch?v=d9Q4y5ovrWU) |
 
 ***
 
