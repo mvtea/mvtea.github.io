@@ -9,15 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-# **CV [[pdf](https://mvtea.github.io/files/cv.pdf)]**
+# **CV [[pdf](https://mvtea.github.io/files/mtea_cv_may21.pdf)]**
 
 
 ***
 
 Education
 ======
-* **B.A. in Physics**, Wesleyan University, *2021* (expected)
-* **B.A. in Astronomy**, Wesleyan University, *2021* (expected)
+* **B.A. Physics**, Wesleyan University, *2021*
+  * Awarded departmental high honors
+* **B.A. Astronomy**, Wesleyan University, *2021*
 
 ***
 
@@ -25,14 +26,14 @@ Research
 ======
 * **Classifying X-ray Binaries in the Local Universe** (*Spring 2019 - Present*)
   * Wesleyan University, Department of Astronomy
-  * Work on characterizing and classifying X-ray binaries (XRBs) in the local universe using archival *Chandra* data
-  * Honors thesis in prep.
+  * Work on identifying and classifying local X-ray binaries (XRBs) using archival *Chandra* data
+  * Honors thesis; awarded high honors
   * Supervisor: [Dr. Roy Kilgard](http://rkilgard.faculty.wesleyan.edu/)
   
 * **Summer research fellow** (*Summer 2020*)
   * Wesleyan University, Department of Astronomy
-  * Worked on modelling XRB spectra from *Chandra*, classifying sources based on these fits
-  * Presented my work as a [poster]() at Wesleyan
+  * Worked on identifying and classifying local X-ray binaries (XRBs) using archival *Chandra* data
+  * Presented my work as a [poster]() at Wesleyan University
   * Supervisor: [Dr. Roy Kilgard](http://rkilgard.faculty.wesleyan.edu/)
   
 * *Fall 2017 - Spring 2019*: **Researcher**
@@ -42,9 +43,8 @@ Research
   
 * *Summer 2019*: **Summer research fellow**
   * Wesleyan University, Department of Astronomy 
-  * Worked on simulating images from the Solar Gravitational Lens (SGL)
   * Wrote a GR raytracing script to simulate images of exoplanets gravitationally lensed by the Sun
-  * Presented my work in a talk at KNAC @ Vassar, as a poster at Wesleyan
+  * Presented my work in a talk at KNAC @ Vassar, as a poster at Wesleyan University
   * Supervisor: [Dr. Seth Redfield](https://sethredfield.wescreates.wesleyan.edu/)
 
 ***
@@ -52,12 +52,12 @@ Research
 Outreach & Activities
 =====
 
-* **_Student Director_, Van Vleck Observatory** (*Fall 2019 - Present*)
+* **_Student Director_, Van Vleck Observatory** (*Fall 2019 - Spring 2021*)
   * Wesleyan University, Department of Astronomy
   * Responsible for training, target selection and maintenance for VVO's 24" research telescopes
-  * Involved in installation, operation of 24" research telescope
+  * Involved in installation, operation of 24" PlaneWave research telescope
   
-* **_Co-founder_, Wesleyan Astronomy & Space Club** (*Fall 2018 - Present*)
+* **_Co-founder_, Wesleyan Astronomy & Space Club** (*Fall 2018 - Spring 2021*)
   * Astronomy club for students at Wesleyan University
   * Weekly presentations given at an intro level on a topic in astronomy
   
@@ -65,19 +65,18 @@ Outreach & Activities
   * Created as a way to get exposure to topics outside of Wesleyan's research areas
   * Weekly meetings to discuss a recent paper in the field
   
-* **_Member_, Wesleyan Diversity Journal Club** (*Summer 2020 - Present*)
+* **_Member_, Wesleyan Diversity Journal Club** (*Summer 2020*)
   * Bi-weekly meetings to discuss an article relevant to promoting diversity in astronomy & STEM in general
   * Discussion and delegation of departmental diversity initiatives takes place during these meetings
-  * Member of sub-commitee charged with branding and site management
   
 * **Reading course on gravitational theory** (*Spring 2018 - Spring 2019*)
   * Met weekly for 2-4hrs to discuss readings & engage in problem-solving
   * Covered topics including mathematical methods for theoretical physics, basic SR/GR, and black hole physics
   
-* *Fall 2017 - Present*: **Telescope operator**
-  * Operate VVO research telescope on observing runs
+* *Fall 2017 - Present*: **Telescope operator** (*Fall 2017 - Spring 2021*)
+  * Operate VVO 24" Perkin and PlaneWave research telescopes on observing runs
   
-* **Space Night and Kids' Night @ VVO**
+* **Space Night and Kids' Night @ VVO** (*Fall 2017 - Spring 2020*)
   * Public outreach events organized by the department, led by student volunteers on a weekly basis
   * Short presentation, activities & observing carried out by astronomy students
   
@@ -88,9 +87,9 @@ Teaching
 * **Coding instructor & course assistant, ASTR 211: Observational Astronomy** (*Spring 2021*)
   * Developed a Python programming curriculum designed to teach techniques for observational astronomy & data science
   * Created tutorials, exercises, and homework problems for students
-  * Teach weekly Zoom "lab sessions"
-  * Hold weekly office hours for programming-related issues
-  * Responsible for grading coding-related homework problems
+  * Taught weekly Zoom "lab sessions"
+  * Held weekly office hours for programming-related issues
+  * Graded coding-related homework problems
 
 * **Course assistant, ASTR 155: Introduction to Astrophysics** (*Fall 2020*)
   * Aided in facilitating group problem-solving sessions during lecture
@@ -120,7 +119,7 @@ Presentations
 
 Publications
 ======
-**<ins>Tea, M V</ins>** (2021). Untitled honors thesis (_in prep_).
+**<ins>Tea, M V</ins>** (2021). _I Chand' Believe They're Black Holes: Identifying, Characterizing, and Contextualizing Bright X-ray Binaries in the Local Universe with Chandra._ Wesleyan University honors thesis, astronomy department. Awarded high honors.
 
 **<ins>Tea, M V</ins>,** Redfield S (2019). _If You Give the Sun a Telescope_: Imaging Alien earths with the Solar Gravitational Lens. _Proceedings of the 30th Keck Northeast Astronomy Consortium Undergraduate Research Symposium, 99-103._
 
@@ -128,8 +127,11 @@ Publications
 
 Honors and awards
 ======
+* *2021*: **Departmental High Honors in Astronomy, Wesleyan University**
 * *2020*: **NASA Connecticut Space Grant Consortium Undergraduate Research Fellowship**
+* *2020*: **Wesleyan University Summer Research Fellow**
 * *2019*: **NASA Connecticut Space Grant Consortium Undergraduate Scholarship**
+* *2019*: **Wesleyan University Summer Research Fellow**
   
 ***
 
@@ -137,17 +139,17 @@ Technical Skills
 ======
 * **Programming**: Python, C, SQL, LaTeX, HTML/CSS
 
-* **Tools/Frameworks**: Unix, Windows, Git
+* **Tools/Frameworks**: Unix/OSX, Windows, Git, Jupyter Notebook, CIAO, Sherpa, BigQuery, Microsoft Office Suite, Adobe Acrobat
 
-* **Libraries**: Numpy, Matplotlib, Pandas, Scipy, Astropy, AstroML
+* **Libraries**: numpy, matplotlib, pandas, scipy, astropy
 
 ***
 
 Coursework highlights
 ======
-* **Physics**: Quantum Mechanics I/II, Electricity and Magnetism, Thermal and Statistical Physics, Classical Dynamics, Special Relativity, Gravitational Theory (tutorial), Electronics Lab (expected)
+* **Physics**: Quantum Mechanics I/II, Electricity and Magnetism, Thermal and Statistical Physics, Classical Dynamics, Special Relativity, General Relativity (tutorial), Electronics
 
-* **Astronomy**: Observational Astronomy, Galaxies, Quasars, & Cosmology, Stellar Structure & Evolution, Exoplanets, Radio astronomy (expected), Astronomical Pedagogy
+* **Astronomy**: Observational Astronomy, Extragalactic Astronomy & Cosmology, Stellar Structure & Evolution, Exoplanets, Radio Astronomy, Astronomical Pedagogy
 
 * **Other**: Computer Science I, Discrete Mathematics
 
