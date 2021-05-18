@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-# Black hole X-ray binaries (BHXRBs)
+## Black hole X-ray binaries (BHXRBs)
 
 Compact objects (black holes, neutron stars, and white dwarfs) are often found in binary systems with a companion star, slowly accumulating an accretion disk of stellar material which emits high-energy X-ray radiation. Observations of these X-ray binaries (XRBs) in nearby galaxies provide the best opportunity to study compact objects, their gravitational effects on their environment, and the high-energy physics powering their emission. Black hole XRBs (BHXRBs) are known to cycle through discrete emission states, segregated by their spectral shpe and variability and directly linked to their accretion rate, with analogous states existing for neutron star XRBs (NSXRBs).
 
@@ -21,7 +21,7 @@ In a forthcoming paper, myself and Dr. Kilgard will utilize these results to sug
 
 <br/><br/>
 
-# The Solar Gravitational Lens (SGL)
+## The Solar Gravitational Lens (SGL)
 
 Gravitational lensing is a phenomenon wherein a massive object, like a galaxy or cluster of galaxies, bends the trajectory of light of a bright source located behind it, which we observe on Earth as a warping or duplication of the source image on the sky. If the conditions are just right and the source, lensing object and observer are perfectly aligned (*in syzygy*), what we observe is called an Einstein ring, a circle of light about the limb of the lens containing highly-magnified light from the source. This alignment, however, rarely occurs in nature.
 
