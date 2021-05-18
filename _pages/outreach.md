@@ -21,10 +21,6 @@ Founded alongside Benjamin C. O. Martinez '21 and Nikki Pallat '21 as a way to g
 
 The astronomy department at Wesleyan, in light of the events surrounding the murder of George Floyd at the hands of racist police, has chosen to reinstitute the DJC, an initiative started by [Dr. Kevin Flaherty](https://kevinflaherty.weebly.com/) as a postdoc here at Wes. The DJC is comprised of both students and faculty and meets bi-weekly to discuss an article related to diversity in astronomy, STEM or in general, with the goal of reflecting on the department's own shortcomings and organizing to improve. I am currently working on developing a graphical and online identity for the initiative, alongside Prof. Seth Redfield and David Vizgan (B.A. '21).
 
-## Reading course on gravitational theory (*Spring 2018 - Spring 2019*)
-
-I approached [Professor George Paily](http://gmpailyteaching.weebly.com/) in my sophomore year about learning more about gravitational theory, and he kindly agreed to take me on as a student. Starting with tensor calculus and ending with an overview of the physics of black holes, this "course" further invigorated my passion for strong gravity.
-
 ## Telescope operator (*Fall 2017 - Present*)
 
 After a (pandemic-interrupted) year of investigation by myself and former colleague Anthony Santini, the  [24" Perkin research telescope](https://www.wesleyan.edu/astro/van-vleck/telescopes.html#24inch) at Wesleyan is once again operational. I've been operating the telescope since my freshman fall and will be doing the same with the brand-new [24" PlaneWave telescope](https://newsletter.blogs.wesleyan.edu/2020/07/22/new-24-telescope-to-provide-better-research-opportunities-for-astronomy-students-faculty/) in the near future.
