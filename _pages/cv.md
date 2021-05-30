@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# **CV [[pdf](https://mvtea.github.io/files/mtea_cv_may21.pdf)]**
+# **CV [[pdf](https://mvtea.github.io/files/mtea_cv_jun21.pdf)]**
 
 
 ***
@@ -84,6 +84,9 @@ Outreach & Activities
 
 Teaching
 ======
+* **Astrophysics teaching assistant, Summer Science Program** (*June 2021 - July 2021*)
+  * Details TBD
+
 * **Coding instructor & course assistant, ASTR 211: Observational Astronomy** (*Spring 2021*)
   * Developed a Python programming curriculum designed to teach techniques for observational astronomy & data science
   * Created tutorials, exercises, and homework problems for students
