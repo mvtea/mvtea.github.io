@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Mason, and I'm a senior at Wesleyan University, graduating in May 2021 with Bachelor's degrees in astronomy and physics.
+Hi! My name is Mason, and I'm a recent alumnus of Wesleyan University; I graduated in May 2021 with Bachelor's degrees in astronomy and physics. I am currently a teaching assistant for the astrophysics section of the [Summer Science Program (SSP)](https://summerscience.org/).
 
-I currently work with [Dr. Roy Kilgard](http://rkilgard.faculty.wesleyan.edu/) on **identifying and characterizing X-ray binaries in the local universe with _Chandra_**. Before that, I worked on **simulations of images from the Solar Gravitational Lens (SGL)** under the guidance of [Dr. Seth Redfield](https://sethredfield.wescreates.wesleyan.edu/). Please see my [Research](mvtea.github.io/research) page for more information.
+In my spare time, I work with [Dr. Roy Kilgard](http://rkilgard.faculty.wesleyan.edu/) on **identifying and characterizing X-ray binaries in the local universe with _Chandra_**. Before that, I worked on **simulations of images from the Solar Gravitational Lens (SGL)** under the guidance of [Dr. Seth Redfield](https://sethredfield.wescreates.wesleyan.edu/). Please see my [Research](mvtea.github.io/research) page for more information.
 
 I was the **Student Director of Van Vleck Observatory** at Wesleyan from 2019-2021, and was involved in a few astronomy outreach projects on campus as well. To hear more about this and other public projects, please see my [Outreach](mvtea.github.io/outreach) page. My teaching experience, among other things, can be found on my [CV](mvtea.github.io/cv).
 
