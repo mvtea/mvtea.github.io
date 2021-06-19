@@ -1,20 +1,20 @@
 # main links links
 main:  
     
-  - title: "Research"
-    url: /research/
+#   - title: "Research"
+#     url: /research/
     
-  - title: "Outreach & Activities"
-    url: /outreach/
+#   - title: "Outreach & Activities"
+#     url: /outreach/
     
-  - title: "Presentations"
-    url: /presentations/  
+#   - title: "Presentations"
+#     url: /presentations/  
     
-  - title: "CV"
-    url: /cv/
+#   - title: "CV"
+#     url: /cv/
     
-  - title: "24'' Program"
-    url: /24inch/
+#   - title: "24'' Program"
+#     url: /24inch/
     
-  - title: "ASTR 211"
-    url: /astr211/
+#   - title: "ASTR 211"
+#     url: /astr211/
