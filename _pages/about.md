@@ -1,11 +1,10 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /
 ---
 
 Hi! My name is Mason, and I'm currently a teaching assistant for the astrophysics section of the [Summer Science Program (SSP)](https://summerscience.org/). In August, I'll be joining the [Space Telescope Science Institute (STScI)](https://www.stsci.edu/) as an Associate Systems Engineer to support the [James Webb Space Telescope (JWST)](https://www.jwst.nasa.gov/) mission.
