@@ -13,4 +13,6 @@ I did my undergrad at Wesleyan University, where I studied astronomy & physics a
 
 Broadly speaking, I'm interested in gravity, both in theory and observation. In particular, I look forward to pursuing research opportunities involving both astrophysical and theoretical black hole physics, multi-messenger / gravitational wave astronomy, and the role compact objects can play in constraining a theory of quantum gravity.
 
-*If you're looking to get in touch, my contact info can be found in the sidebar to the left (or the "Follow" button if you're on mobile). Additionally, my most recent CV can be found [here](https://mvtea.github.io/files/mvtea-cv-jun21.pdf).*
+My most recent CV can be found [here](https://mvtea.github.io/files/mvtea-cv-jun21.pdf).
+
+*If you're looking to get in touch, my contact info can be found in the sidebar to the left (or the "Follow" button if you're on mobile).*
