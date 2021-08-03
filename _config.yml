@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mason V. Tea"
 title_separator          : "-"
 name                     : &name "Mason V. Tea"
-description              : &description "Associate Systems Engineer I at STScI"
+description              : &description "Systems Engineer, JWST I&T @ STScI"
 url                      : https://mvtea.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/mvtea.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mason V. Tea"
   avatar           : "profile.jpg"
-  bio              : "Current astrophysics TA at SSP. Incoming Associate Systems Engineer I at STScI. he/they."
+  bio              : "He/they. Systems Engineer @ STScI, JWST I&T. Fledgeling scientist and friend of gravity."
   location         : "Ohio, USA"
   employer         :
   pubmed           : 
