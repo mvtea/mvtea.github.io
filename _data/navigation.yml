@@ -1,17 +1,26 @@
 # main links links
 main:  
     
-- title: "Blog"
-  url: /blog/
+  - title: "Research"
+    url: /research/
     
-#   - title: "Research"
-#     url: /research/
+  - title: "Teaching"
+    url: /teaching/
+    
+  - title: "Outreach"
+    url: /outreach/
+    
+  - title: "Presentations"
+    url: /presentations/ 
+    
+  - title: "Blog"
+    url: /blog/
+    
+  - title: "CV"
+    url: https://mvtea.github.io/files/mtea_jul21-cv.pdf
     
 #   - title: "Outreach & Activities"
-#     url: /outreach/
-    
-#   - title: "Presentations"
-#     url: /presentations/  
+#     url: /outreach/ 
     
 #   - title: "CV"
 #     url: /cv/
