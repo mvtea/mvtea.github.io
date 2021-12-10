@@ -29,9 +29,8 @@ My thesis work itself identified 11 candidate XRBs, the majority of which have n
 <br/><br/>
 
 <center>
-  <h1>Previous Projects</h1>
+  <h2>Previous Projects</h2>
 </center>
-
 
 ### Simulating the Solar Gravitational Lens (SGL)
 
