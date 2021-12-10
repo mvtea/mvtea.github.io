@@ -11,7 +11,7 @@ redirect_from:
   * Aided in facilitating lecture activities and group problem-solving sessions
   * Graded homework, Python code, and student submissions to the Minor Planet Association for ~30  students
 
-## Wesleyan University
+## @ Wesleyan University
 
 * **Coding instructor & TA**, ASTR 211: Observational Astronomy (*Spring 2021*)
   * Developed a Python programming curriculum designed to teach techniques for observational astronomy & data science
