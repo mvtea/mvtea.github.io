@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mason V. Tea"
+title                    : "Mason V. Tea (they/he)"
 title_separator          : "-"
 name                     : &name "Mason V. Tea"
 description              : &description "Systems Engineer, JWST I&T @ STScI"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mason V. Tea"
   avatar           : "profile.jpg"
-  bio              : "Fledgeling scientist and friend of gravity. Systems engineer at STScI. Wesleyan University astro/phys '21. They/he."
+  bio              : "Fledgeling scientist and friend of gravity. Systems engineer at STScI. Wesleyan University astro/phys '21."
   location         : "Baltimore, MD, USA"
   employer         :
   pubmed           : 
