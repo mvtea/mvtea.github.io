@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 A brief outline of my teaching experience.
-<hr></hr>
+<hr>
 
 * **Astrophysics teaching assistant, Summer Science Program** (*June 2021 - July 2021*)
   * Aided in facilitating lecture activities and group problem-solving sessions
