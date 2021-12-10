@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# **CV [[pdf](https://mvtea.github.io/files/mtea_cv_jun21.pdf)]**
+# **CV [[pdf](https://mvtea.github.io/files/mtea_cv_jul21.pdf)]**
 
 
 ***
