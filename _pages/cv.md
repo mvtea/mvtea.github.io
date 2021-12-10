@@ -85,7 +85,8 @@ Outreach & Activities
 Teaching
 ======
 * **Astrophysics teaching assistant, Summer Science Program** (*June 2021 - July 2021*)
-  * Details TBD
+  * Aided in facilitating lecture activities and group problem-solving sessions
+  * Graded homework, Python code, and student submissions to the Minor Planet Association for ~30  students
 
 * **Coding instructor & course assistant, ASTR 211: Observational Astronomy** (*Spring 2021*)
   * Developed a Python programming curriculum designed to teach techniques for observational astronomy & data science
