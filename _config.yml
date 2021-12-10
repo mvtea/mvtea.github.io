@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mason V. Tea"
 title_separator          : "-"
-name                     : &name "Mason V. Tea (they/he)"
+name                     : &name "Mason V. Tea, they/he"
 description              : &description "Systems Engineer, JWST I&T @ STScI"
 url                      : https://mvtea.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
