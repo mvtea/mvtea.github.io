@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 A brief description of some of the astrophysics-related outreach and activities I am/have been involved in.
+<hr>
 
 ## @ Wesleyan University
 
