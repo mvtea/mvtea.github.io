@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 Here, you'll find a (hopefully) accessible background and a summary of my work on my major research projects. 
+<hr>
 
 <center>
   <h2>Current Projects</h2>
