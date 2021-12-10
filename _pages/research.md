@@ -9,10 +9,10 @@ redirect_from:
 Here, you'll find a (hopefully) accessible background and a summary of my work on my major research projects. 
 
 <center>
-  <h1>Current Projects</h1>
+  <h2>Current Projects</h2>
 </center>
 
-## Characterizing black hole X-ray binaries (BHXRBs) with _Chandra_
+### Characterizing black hole X-ray binaries (BHXRBs) with _Chandra_
 
 Stellar-mass black holes are most often observed via interaction with a companion star, which orbit one another in what's known as an [X-ray binary](https://en.wikipedia.org/wiki/X-ray_binary) (XRB). These systems earn their name from the high-energy emission generated when the black hole accretes material from its companion, observed here on Earth as X-rays by space-based observatories like [_Chandra_](https://chandra.harvard.edu/).
 
@@ -33,7 +33,7 @@ My thesis work itself identified 11 candidate XRBs, the majority of which have n
 </center>
 
 
-## Simulating the Solar Gravitational Lens (SGL)
+### Simulating the Solar Gravitational Lens (SGL)
 
 Light tends to take the shortest path as it travels through the universe. When it encounters a massive object (e.g. a galaxy,or a cluster of galaxies), the shortest path becomes a _curved_ path, as spacetime is warped in the presence of matter. This means that, from here on Earth, we sometimes observe the light from objects _behind_ other massive objects like galaxies, as the path of the light is curved around the outside of the object by gravity. This phenomenon is known as [gravitational lensing](https://en.wikipedia.org/wiki/Gravitational_lens).
 
