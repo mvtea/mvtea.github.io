@@ -8,7 +8,7 @@ redirect_from:
   - /observational/
 ---
 
-### These materials are from a course for which I taught the programming/observing portions of at Wesleyan University. Upon review, there are a fair number of typos and small (mostly aesthetic) errors, but nothing which the clever reader can't figure out. I plan to update these tutorials and release them on a separate page in the future, and I will update this page when I do.
+### These materials are from a course which I taught the programming/observing portions of at Wesleyan University. Upon review, there are a fair number of typos and small (mostly aesthetic) errors, but nothing which the clever reader can't work around. I plan to update these tutorials and release them on a separate page in the future, and I will update this page when I do.
 
 ***
 
