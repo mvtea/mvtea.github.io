@@ -30,7 +30,7 @@ The astronomy department at Wesleyan, in light of the events surrounding the mur
 
 After a (pandemic-interrupted) year of investigation by myself and former colleague Anthony Santini, the  [24" Perkin research telescope](https://www.wesleyan.edu/astro/van-vleck/telescopes.html#24inch) at Wesleyan is once again operational. I've been operating the telescope since my freshman fall and did the same with the brand-new [24" PlaneWave telescope](https://newsletter.blogs.wesleyan.edu/2020/07/22/new-24-telescope-to-provide-better-research-opportunities-for-astronomy-students-faculty/) during its testing and initialization phase.
 
-## Volunteer, Space Night and Kids' Night @ VVO (*Fall 2019 - Spring 2020*)
+### Volunteer, Space Night and Kids' Night @ VVO (*Fall 2019 - Spring 2020*)
 
 Space Nights are evenings at Van Vleck Observatory where the public are encouraged to come listen to an engaging presentation given by an astronomy student and observe with our telescopes. In the case of Kids' Night, a short activity is prepared by students for children from the community to participate in while learning about astronomy. I've been involved as a volunteer for these events.
 
