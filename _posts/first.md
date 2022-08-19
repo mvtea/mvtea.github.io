@@ -1,0 +1,37 @@
+---
+title: 'Testing...'
+date: 2021-09-20
+permalink: /posts/2022/08/the-moment-i-knew-what-i-wanted-to-do/
+tags:
+  - test
+---
+
+I'm applying to graduate programs at the moment, and as I'm working on my personal statement, I'm reminded of the moment I knew I wanted to pursue a career in theoretical physics. It's surprising that I can pinpoint it, as my memory isn't the greatest, but it's stuck with me in the ~decade since. The same story got me into a summer program at Notre Dame in high school, and I'm certain I mentioned it somewhere in my application to Wesleyan.
+
+It's a seemingly insignificant moment, but it's proven the most significant in my path through this life time and time again. Thinking of it reminds me of the feeling I had then, and why I must continue to make good on the promise I made to myself then.
+
+I'd like to share that moment here, for posterity.
+
+___
+
+For most of my childhood, I've been attached to screens. In third or fourth grade, I got my first phone, one of those twenty-dollar burners overflowing from [Saul Goodman](https://www.imdb.com/title/tt0903747/)'s desk drawers. Not long after came my first computer, a laptop about the size and weight of a textbook. Every day after school was spent at the local library, scrolling through some of the first viral memes adn videos with my friends. A few game systems, tablets, and PCs later, I was so online you could've sworn I had a [headjack](https://matrix.fandom.com/wiki/Headjack) under my[ Zack-and-Cody-inspired haircut](https://i2-prod.mirror.co.uk/incoming/article7797062.ece/ALTERNATES/s1200b/0_Cole-Sprouse-and-Dylan-Sprouse.jpg). 
+
+By the time I was in middle school, I spent just about all of my spare time on the internet. Most of my friends from school did the same, as did the friends I met _on_ the internet, and I could chat with them there whenever I wanted. Between multiplayer games, Skype, Tumblr, and [the height of the YouTube renaissance](https://www.youtube.com/playlist?list=PLch8MEZ8ze9Xe0wK5P5T-1VDD-Gety2ha), there was an immense wealth of entertainment to be had online, in the comfort of one's own home, safe from weather and bugs and "real" people. The recluse wondered why anyone would go outside to do anything other than re-up on snacks.
+
+On one evening in particular around that time, I had a couple of friends over to my house, taking our usual swing at making it a hundred rounds in the new Call of Duty: Zombies DLC. (*Sidenote*: If I remember correctly, I think it was [Mob of the Dead](https://www.ign.com/wikis/call-of-duty-black-ops-2/Mob_of_the_Dead) in Black Ops II, by far the best game in the CoD franchise to this day, but far from the best Zombies DLC. That title is held firmly by [Origins](https://www.ign.com/wikis/call-of-duty-black-ops-2/Origins), and I will not be taking comments on that fact at this time.) We had just finished another hours-long unsuccessful run, and were gathered on the bed in front of the TV, nearly asleep with YouTube playing in the background.
+
+Auto-play was on, and I suppose the algorithm wasn't as robust back then, because it switched from an Easter egg walkthrough for the new map to a very specific video: ["Michio Kaku: The Universe in a Nutshell"](https://www.youtube.com/watch?v=0NbBjNiw4tk) from a channel called Big Think. I drifted to sleep as it came on, and was awoken again about ten minutes into the video to my friends discussing something, arguably a little too loudly for the time of night (or rather morning). They noticed I was awake, and recounted what they'd just watched so I could get in on the discussion; I don't recall specifically which factoid they were so excited about, but it snapped me awake almost immediately, and we got to chatting. We eventually finished the video, talking through the whole thing, then watched another related video, then another, until the sunrise and an empty 24-pack of Mountain Dew convinced us to sleep. 
+
+These days, I'm of course wary of pop-scientists like Kaku and Tyson, but I'm glad I wasn't so biased when I was young. It was the ideas Kaku presented in that video that began my obsession with all things gravitational, cosmological, and astronomical. That moment sparked in my mind a million ideas and questions, which I spent (and continute to spend) much of my spare time investigating in one way or another. My friends and I binge-watched SciShow and PBS Space Time videos habitually from then on, bouncing ridiculous ideas off one another as if we knew the first thing about any of it. (Well, I suppose we now knew the _first_ thing, but we were lacking on things roughly two to [\\infty](https://www.physicsread.com/latex-infinity/)). We even went on to form our high school's first science club, where we discussed these topics together and prepared experiments to present to elementary schoolers. And, of course, I eventually got an astrophysics degree, fully committing to the bit.
+
+Looking back, and even writing it out now, it seems like nothing special. It's not like I hadn't learned about astronomy in school by then in some capacity, like I didn't grow up with a mother who spoon-fed me educational content since I was a baby, like I didn't star as the moon in a play about the solar system in elementary school. (That last one may be unrelated, but I just remembered how committed second-grade Mason was to the accuracy of the role.) Every time I try to think back on why I decided so early on that this is what I wanted to spend my life doing, though, this is the first thought that comes to mind.
+
+Not many people are so lucky to have a moment like that. Many get caught up in the monotony of life, forget their passions, or decide that they aren't worth pursuing for some reason or another. I've had those thoughts -- astrophysics is really hard, which I can't believe nobody ever told me before I committed to four years of it -- but something keeps me carrying on. I'm incredibly grateful that I have this little moment to look back on, grateful for the people and circumstances that facilitated it and all that followed. It opened a world of opportunity for me and sent me on the path to the person I am today. I hope that it continues to open doors as I work to make good on the promise I made to myself to keep going.
+
+No small feat, it even got me to go outside. That's where the universe is, after all.
+
+___
+
+I'm no wordsmith, but if someone stumbles upon this, I hope my perspective proves to be worth reading, even if only by future me. (Hi! How was Stockholm?)
+
+-MVT
